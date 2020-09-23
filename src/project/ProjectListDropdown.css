@@ -1,0 +1,14 @@
+.project-list-dropdown {
+  display: flex;
+  align-items: center;
+}
+
+.project-list-dropdown--label {
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.project-list-dropdown--select {
+  padding: 2px 6px;
+  outline: none;
+}

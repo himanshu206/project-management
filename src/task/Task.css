@@ -1,0 +1,13 @@
+.task {
+  padding: 8px;
+  box-shadow: 0 0 2px lightgray;
+  margin: 5px;
+}
+
+.task--description {
+  margin-left: 5px;
+}
+
+.task--strike {
+  text-decoration: line-through;
+}
